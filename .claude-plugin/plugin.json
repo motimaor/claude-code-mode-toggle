@@ -1,0 +1,8 @@
+{
+  "name": "code-mode-toggle",
+  "version": "0.1.0",
+  "description": "Toggle Code Mode (CLAUDE_CODE_EXPERIMENTAL_CODE_MODE) in ~/.claude/settings.json from a side pane in Claude Code",
+  "author": { "name": "motimaor", "url": "https://github.com/motimaor" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

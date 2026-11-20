@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-mode-toggle",
+  "owner": { "name": "motimaor" },
+  "plugins": [{ "name": "code-mode-toggle", "source": "./" }]
+}
